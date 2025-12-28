@@ -110,5 +110,6 @@ Controle de versão: **Git, GitHub**
 Deploy e servidores: **FileZilla, PuTTY**
 
 O próximo universo?  
+
 Talvez um novo framework, talvez cloud, talvez microserviços.  
 Mas uma coisa é certa: onde quer que ele chegue, já sabe como explorar, aprender e conectar mais um mundo ao seu grande multiverso pessoal.
