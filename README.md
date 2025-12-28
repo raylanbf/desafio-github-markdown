@@ -1,12 +1,14 @@
-Do Front ao Back: Uma Jornada Pelo Multiverso das Tecnologias
+# **Do Front ao Back: Uma Jornada Pelo Multiverso das Tecnologias**
 
-HTML & CSS
-Tudo começou simples: um navegador aberto e um arquivo em branco.
-No Universo HTML & CSS, ele aprendeu a erguer cidades digitais.
-Cada div era um prédio, cada flex e grid organizava ruas e avenidas.
+***
+
+### **HTML & CSS**
+Tudo começou simples: um navegador aberto e um arquivo em branco.  
+No **Universo HTML & CSS**, ele aprendeu a erguer cidades digitais.  
+Cada `div` era um prédio, cada `flex` e `grid` organizava ruas e avenidas.  
 Ali nasceu o arquiteto da web: alguém capaz de transformar um esboço em interface real.
 
-Tecnologias: HTML, CSS
+> Tecnologias: **HTML, CSS**
 
 JavaScript
 Logo, percebeu que aquelas cidades estavam… paradas demais.
