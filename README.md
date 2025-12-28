@@ -10,22 +10,26 @@ Ali nasceu o arquiteto da web: alguém capaz de transformar um esboço em interf
 
 > Tecnologias: **HTML, CSS**
 
-JavaScript
-Logo, percebeu que aquelas cidades estavam… paradas demais.
-Foi puxado então para o Universo JavaScript, onde tudo se movia.
-Botões reagiam, formulários validavam, elementos surgiam e sumiam da tela.
+***
+
+### **JavaScript**
+Logo, percebeu que aquelas cidades estavam… paradas demais.  
+Foi puxado então para o **Universo JavaScript**, onde tudo se movia.  
+Botões reagiam, formulários validavam, elementos surgiam e sumiam da tela.  
 A web ganhava vida com funções, eventos e lógica.
 
-Tecnologias: JavaScript
+> Tecnologias: **JavaScript**
 
-TypeScript
-Mas a complexidade crescia como um universo em expansão.
-Uma porta azul se abriu: o Universo TypeScript.
-Lá, cada variável tinha identidade, cada função um contrato.
-Erros começaram a aparecer antes de virar problema em produção.
-Nesse mundo, ele aprendeu que crescer como dev também é crescer em organização e segurança.
+***
 
-Tecnologias: TypeScript
+### **TypeScript**
+Mas a complexidade crescia como um universo em expansão.  
+Uma porta azul se abriu: o **Universo TypeScript**.  
+Lá, cada variável tinha identidade, cada função um contrato.  
+Erros começaram a aparecer antes de virar problema em produção.  
+Nesse mundo, ele aprendeu que crescer como dev também é crescer em **organização** e **segurança**.
+
+> Tecnologias: **TypeScript**
 
 PHP
 Enquanto explorava esses universos do frontend, um portal diferente se manifestou:
